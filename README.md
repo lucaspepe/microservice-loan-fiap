@@ -14,13 +14,13 @@ Para este projeto foram utilizados os seguintes padrões de projeto:
  - Repository: Utilizado para o armazanemento dos dados
  - Factory: Utilizado para a criação de instâncias de entidades e repositorios em memória/repositorios de banco de dados
 
-Os arquivos que utilizam esses padrões foram nomeados também com o nome do padrão no final, exemplo:
+Os arquivos que utilizam estes padrões foram nomeados também com o nome do padrão no final, exemplo:
 ```bash
   InstallmentGeneratorFactory.ts
   InstallmentDatabaseRepository.ts
   LogDecorator.ts
 ```
-## 🚀 Executar o projeto localmente
+## Executar o projeto localmente
 
 Abra a pasta microservice-loan-fiap e execute no terminal: 
 ```bash
