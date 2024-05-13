@@ -3,7 +3,7 @@
 Este projeto visa atender ao trabalho da matéria SOFTWARE ENGINEERING DEVELOPMENT de Engenharia de Software da FIAP
 
 ## Objetivo do microserviço
-simular financiamento através de tipos "price" e "sac".
+simular empréstimo através de dois tipos: "price" e "sac".
 
 ## Arquitetura e padrões de projeto
 Serviço desenvolvido com clean architecture usando os princípios/conceitos do SOLID também.
